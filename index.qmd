@@ -21,10 +21,6 @@ callout-appearance: simple
 library(distributional)
 ```
 
-## {}
-
-<!-- Empty slide for starting the title slide along with the talk. -->
-
 ## {background-iframe="backgrounds/vector-particles.html"}
 
 ::: columns
