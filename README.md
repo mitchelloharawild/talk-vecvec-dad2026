@@ -63,3 +63,19 @@ spatial vectors a dataset ready for spatio-temporal analysis.
 ### Format
 
 ~50 minutes (\>30 minute talk, ~20 minute discussion)
+
+### Speaker
+
+[**Mitchell O’Hara-Wild**](https://mitchelloharawild.com/) (he/him) is a
+PhD candidate at [Monash University](https://www.monash.edu) with over
+10 years of experience in time series forecasting, open source software
+development, and teaching statistics. His recent research focuses on
+semantic vector types that preserve the structure of probabilistic,
+temporal, and graph data for safer statistical analysis, including the
+[distributional](https://pkg.mitchelloharawild.com/distributional/),
+[mixtime](https://pkg.mitchelloharawild.com/mixtime/), and
+[graphvec](https://pkg.mitchelloharawild.com/graphvec/) R packages.
+These semantics are demonstrated in practice by the
+[fable](https://fable.tidyverts.org/) forecasting package, which
+combines these vectors to facilitate probabilistic forecasting workflows
+at scale.
