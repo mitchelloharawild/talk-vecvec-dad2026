@@ -11,9 +11,9 @@ format: gfm
 
 Slides and notes for a presentation about vectorised statistics at Maastricht University's Department of Data Analytics and Digitalisation (DAD) in Maastricht, Netherlands (18 June 2026).
 
-<!-- A recording of this presentation is available on YouTube here: <https://youtu.be/[slug]> -->
+A recording of this presentation is available on YouTube here: <https://youtu.be/OM6oquHW8OQ>
 
-<!-- [![](preview.png)](https://www.youtube.com/watch?v=[slug]) -->
+[![](preview.png)](https://www.youtube.com/watch?v=OM6oquHW8OQ)
 
 #### Abstract
 
